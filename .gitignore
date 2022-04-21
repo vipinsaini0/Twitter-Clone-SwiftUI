@@ -1,0 +1,24 @@
+
+Podfile
+Podfile.lock
+Pods/Pods.xcodeproj/project.pbxproj
+Pods/Pods.xcodeproj/xcuserdata/vipinsaini.xcuserdatad/xcschemes/Pods-TwitterCloneSwiftUI.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/vipinsaini.xcuserdatad/xcschemes/xcschememanagement.plist
+Pods/Target Support Files/Pods-TwitterCloneSwiftUI/Pods-TwitterCloneSwiftUI-acknowledgements.markdown
+Pods/Target Support Files/Pods-TwitterCloneSwiftUI/Pods-TwitterCloneSwiftUI-acknowledgements.plist
+Pods/Target Support Files/Pods-TwitterCloneSwiftUI/Pods-TwitterCloneSwiftUI-dummy.m
+Pods/Target Support Files/Pods-TwitterCloneSwiftUI/Pods-TwitterCloneSwiftUI-Info.plist
+Pods/Target Support Files/Pods-TwitterCloneSwiftUI/Pods-TwitterCloneSwiftUI-umbrella.h
+Pods/Target Support Files/Pods-TwitterCloneSwiftUI/Pods-TwitterCloneSwiftUI.debug.xcconfig
+Pods/Target Support Files/Pods-TwitterCloneSwiftUI/Pods-TwitterCloneSwiftUI.modulemap
+Pods/Target Support Files/Pods-TwitterCloneSwiftUI/Pods-TwitterCloneSwiftUI.release.xcconfig
+Pods/Manifest.lock
+.DS_Store
+.Trashes
+*.swp
+*.lock
+DerivedData/
+.build/
+*.ipa
+*.dSYM.zip
+*.dSYM
