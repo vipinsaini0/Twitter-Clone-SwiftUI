@@ -19,7 +19,8 @@ struct ExploreView: View {
             ScrollView {
                 LazyVStack {
                     ForEach(viewModel.searchableUsers) { user in
-                        NavigationLink {                          ProfileView(user: user)
+                        NavigationLink {
+                            ProfileView(user: user)
                         } label: {
                             UserRowView(user: user)
                         } 
@@ -27,7 +28,7 @@ struct ExploreView: View {
                 }
             }
         }
-        .navigationTitle("Explore")
+//        .navigationTitle("Explore")
         .navigationBarTitleDisplayMode(.inline)
     }
 }
