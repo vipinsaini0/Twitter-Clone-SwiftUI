@@ -20,8 +20,7 @@ struct FeedView: View {
                             .padding()
                     }
                 }
-            }
-           
+            } 
             
             Button {
                 print("New tweet")
@@ -43,7 +42,9 @@ struct FeedView: View {
                NewTweetView()
             }
         }
+//        .navigationTitle("Home")
         .navigationBarTitleDisplayMode(.inline)
+       
     }
 }
 

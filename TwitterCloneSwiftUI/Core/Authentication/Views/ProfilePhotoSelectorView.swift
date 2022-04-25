@@ -55,6 +55,7 @@ struct ProfilePhotoSelectorView: View {
             Spacer()
         }
         .ignoresSafeArea()
+        .navigationBarHidden(true)
     }
     
     func loadImage() {

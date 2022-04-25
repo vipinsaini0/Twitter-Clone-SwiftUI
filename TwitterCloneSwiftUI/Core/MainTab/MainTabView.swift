@@ -43,7 +43,8 @@ struct MainTabView: View {
                 .tabItem {
                     Image(systemName: "envelope")
                 }.tag(3)
-        }
+                
+        } 
     }
 }
 
