@@ -1,6 +1,7 @@
 # Twitter_Clone_SwiftUI
-Twitter with SwiftUI 
-Firebase for Login and Database
+Twitter clone in SwiftUI with MVVM, 
+Firebase for Login/Register and other database.
+
 
 - Using Firebase 
   - Login with email
