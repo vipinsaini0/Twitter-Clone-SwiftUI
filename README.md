@@ -3,7 +3,7 @@ Twitter with SwiftUI
 Firebase for Login and Database
 
 - Using Firebase 
-  - Login with emial
+  - Login with email
   - Register with email
 - Firestore
   - Save all details of register user
@@ -11,6 +11,7 @@ Firebase for Login and Database
 - Tweet like
 - Post a tweet
 - Fetch Profile detail
+- Fetch all tweets
 - Fetch likes tweets
 - Fetch all register users
 - Logout
